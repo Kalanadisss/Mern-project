@@ -11,12 +11,12 @@ font-size: 1rem;
 function App() {
   return (
   <div>
-    <Button>Click </Button>
-    <h1>Jobify</h1>
     <Landing/>
   </div>
   
   )
 }
+
+
 
 export default App;
